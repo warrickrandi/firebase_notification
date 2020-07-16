@@ -1,5 +1,5 @@
 # firebase_notification
-<<<<<<< HEAD
+
 Firebase Push Notification Implementation
 =======
 
